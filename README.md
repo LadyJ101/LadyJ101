@@ -1,7 +1,8 @@
 <div align="center">
 
-# ⚡ Abioye Oluwadamilola Joy ⚡
-### **[ LadyJ101 ]**
+# ⚡ ARCHITECTING AT THE EDGE ⚡
+## **Abioye Oluwadamilola Joy** · `[ LadyJ101 ]`
+### *Bridging Silicon Physics, Hardware Logic & Edge Intelligence*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abioye-oluwadamilola)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EmpressJ_001)
@@ -9,8 +10,6 @@
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@empressj01)
 
 </div>
-
----
 
 ### 🔬 The Silicon-to-Software Manifesto
 
